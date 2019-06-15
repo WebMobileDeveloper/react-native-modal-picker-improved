@@ -1,0 +1,70 @@
+{
+  "_from": "react-native-modal-picker-improved@0.0.17",
+  "_id": "react-native-modal-picker-improved@0.0.17",
+  "_inBundle": false,
+  "_integrity": "sha1-gEKAq46Dq29RxGjpoAYYF1nGaVg=",
+  "_location": "/react-native-modal-picker-improved",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "react-native-modal-picker-improved@0.0.17",
+    "name": "react-native-modal-picker-improved",
+    "escapedName": "react-native-modal-picker-improved",
+    "rawSpec": "0.0.17",
+    "saveSpec": null,
+    "fetchSpec": "0.0.17"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-modal-picker-improved/-/react-native-modal-picker-improved-0.0.17.tgz",
+  "_shasum": "804280ab8e83ab6f51c468e9a006181759c66958",
+  "_spec": "react-native-modal-picker-improved@0.0.17",
+  "_where": "/Users/sun/projects/Concrete",
+  "author": {
+    "name": "Daniel Korger",
+    "email": "dan@imake.io"
+  },
+  "bugs": {
+    "url": "https://github.com/efogdev/react-native-modal-picker-improved/issues"
+  },
+  "bundleDependencies": false,
+  "contributors": [
+    {
+      "name": "Alex Spring",
+      "email": "notlose@hotmail.com"
+    },
+    {
+      "name": "Artyom Suprun",
+      "email": "efog@yandex.com"
+    }
+  ],
+  "deprecated": false,
+  "description": "A cross-platform (iOS / Android), selector/picker component for React Native that is highly customizable and supports sections.",
+  "homepage": "https://github.com/efogdev/react-native-modal-picker-improved",
+  "keywords": [
+    "react-native",
+    "dropdown",
+    "popover",
+    "select",
+    "picker",
+    "modal",
+    "ios",
+    "android",
+    "react-component"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "react-native-modal-picker-improved",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/efogdev/react-native-modal-picker-improved.git"
+  },
+  "scripts": {
+    "postversion": "git push && git push --tags",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.0.17"
+}
